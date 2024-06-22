@@ -6,10 +6,6 @@ These are some of the questions that may be answered by analyzing a large collec
 
 This data app shows a simple demonstration of an interactive data explorer that allow users to adjust parameter widgets and observe in real-time updates to data visualization.
 
-## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://interactive-data-explorer-template.streamlit.app/)
-
 ## GitHub Codespaces
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dataprofessor/movies-explorer?quickstart=1)
